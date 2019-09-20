@@ -1,5 +1,5 @@
 # ShimakoHD
-Minecraft Resource Pack
+Minecraft BedrockEdition Resource Pack
 
 Change font to Noto Sans CJK JP Medium (High Definition)
 
